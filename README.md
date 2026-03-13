@@ -1,12 +1,16 @@
-My First Mobile App 📱
-Proyek kartu profil sederhana yang dibangun menggunakan React Native dan Expo.
+# Project: Kartu Nama Digital 🪪
 
-📝 Detail Mahasiswa
-Nama: Rachel Krisyanti Hutagalung
+Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 
-NIM: 243303621258
+## 📸 Screenshots
+![Preview Aplikasi](./assets/screenshoot/foto-app.jpeg)
 
-Prodi: Sistem Informasi
+## 🛠️ Tech Stack
+- **Framework:** React Native (Expo SDK 50)
+- **Navigation:** Expo Router
+- **Language:** TypeScript
 
-## 📸 Tampilan Aplikasi
-![Screenshot](./assets/screenshoot/foto-app.jpeg)
+## 🚀 Cara Menjalankan
+1. Clone repository ini.
+2. Jalankan `npm install`.
+3. Jalankan `npx expo start`.
